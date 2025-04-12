@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elBeato
 - 👀 I’m interested in collaboration with other software engineers. 
-- 🌱 I’m currently learning web application with Java as server side and React for the frontend.
+- 🌱 I’m currently learning web application with Java & Python as server side and NEXT.js for the frontend.
 - 💞️ I’m looking to collaborate on projects with YOU. 
 - 📫 How to reach me: best by email. 
 
